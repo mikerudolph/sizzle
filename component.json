@@ -1,0 +1,11 @@
+{
+  "name": "sizzle",
+  "repo": "mikerudolph/sizzle",
+  "version": "1.10.5-pre",
+  "description": "sizzle.js packaged for component.io",
+
+  "scripts": [
+    "index.js",
+    "dist/sizzle.js"
+  ]
+}
